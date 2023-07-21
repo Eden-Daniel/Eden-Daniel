@@ -1,6 +1,6 @@
 ### Oi, Eu sou o Éden!
 
-- 📚 Eu estou aprendendo JavaScript, HTML5 e CSS3
+- 📚 Eu estudo JavaScript, HTML5, CSS3 e React
 
 <div align="center">
   <a href="https://github.com/Eden-Daniel">
